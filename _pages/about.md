@@ -12,8 +12,10 @@ I am Yiwen Chen (陈逸文), a second-year Ph.D. student at [Khoury College of C
 Research
 ======
 - [HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model(prePrint)](https://arxiv.org/abs/2406.20077)
-Hieu T. Nguyen*, Yiwen Chen*, Vikram Voleti, Varun Jampani, Huaizu Jiang
+
+Hieu T. Nguyen *, Yiwen Chen *, Vikram Voleti, Varun Jampani, Huaizu Jiang
 - [ShapeCrafter: A Recursive Text-Conditioned 3D Shape Generation Model](https://arxiv.org/abs/2207.09446)
+
 Rao Fu, Xiao Zhan, Yiwen Chen, Daniel Ritchie, Srinath Sridhar
 
 (* denotes equal contribution)
