@@ -22,5 +22,6 @@ Teaching
 ======
 
 CS3540 Game Programming (2024 summer, NorthEastern)
+
 CS1230 Computer Graphics (2022 Fall, Brown)
 
